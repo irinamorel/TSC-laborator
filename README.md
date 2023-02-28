@@ -12,3 +12,5 @@
   Comanda4:
   -git config --global credential.helper store
   Add comanda : git status
+  Comanda5:
+  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
