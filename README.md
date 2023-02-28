@@ -11,3 +11,4 @@
   -git config --global --list
   Comanda4:
   -git config --global credential.helper store
+  Add comanda : git status
